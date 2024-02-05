@@ -41,7 +41,7 @@ if [ "$action" == "1" ]; then
     TARGET_CRON="Save"
     
     # 새로운 크론탭 예약을 추가할 표현식
-    NEW_CRONTAB="$USER_HOME/Save >> $USER_HOME/logfile.log 2>&1"
+    NEW_CRONTAB="$USER_HOME/Save.sh >> $USER_HOME/logfile.log 2>&1"
 
     echo -e "\e[96m╔═══════════════════════════════════════════════════════════╗\e[0m"
     echo -e "\e[96m║ \e[93m* * * * *  실행할 명령어                                  ║\e[0m"
