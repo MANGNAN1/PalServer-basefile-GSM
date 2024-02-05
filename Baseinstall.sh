@@ -11,8 +11,8 @@ USER_HOME="/home/$USERNAME"
 
 echo -e "\e[32m베이스 파일들을 설치합니다.\e[0m"
 
-curl -o Function.sh -O https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile/main/Function.sh
-curl -o Save.sh -O https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile/main/Save.sh
+curl -o Function.sh -O https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile-GSM/main/Function.sh
+curl -o Save.sh -O https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile-GSM/main/Save.sh
 
 echo -e "\e[32m완료.\e[0m"
 

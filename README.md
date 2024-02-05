@@ -37,7 +37,7 @@ gcloud compute firewall-rules create $FIREWALL_RULE \
 
 서버관리 패키지
 ```
-curl -sSL https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile/main/Baseinstall.sh -o ~/Baseinstall.sh
+curl -sSL https://raw.githubusercontent.com/MANGNAN1/PalServer-basefile-GSM/main/Baseinstall.sh -o ~/Baseinstall.sh
 
 chmod +x ~/Baseinstall.sh
 
