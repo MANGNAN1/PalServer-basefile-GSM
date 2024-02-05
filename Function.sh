@@ -138,8 +138,6 @@ else
 fi
 }
 
-/home/b99qlrnrn/serverfiles/Pal/Saved/SaveGames/0/6BB1AB0BFEF84484BA4679A0C5F7B5FC/
-
 # 파일 저장 함수
 Save() {
 SAVE_DIR="$HOME/backup/saved"
