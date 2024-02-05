@@ -50,7 +50,7 @@ update_bashrc() {
     alias 서버시작='./pwserver start'
     alias 서버종료='./pwserver stop'
     alias 서버리붓='./pwserver restart'
-    #alias 서버확인='source $USER_HOME/Function.sh && Servercheck'
+    alias 서버확인='source $USER_HOME/Function.sh && Servercheck'
     alias 업데이트='./pwserver update'
     alias 사용법='source $USER_HOME/Function.sh && Manual'
     alias 저장='source $USER_HOME/Function.sh && Save'
